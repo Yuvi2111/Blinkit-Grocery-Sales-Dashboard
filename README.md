@@ -27,7 +27,7 @@ This interactive Excel dashboard analyzes grocery sales data from Blinkit, provi
 
 ## 📸 Dashboard Preview
 
-![Excel Dashboard](dashboard-preview.png)
+![Excel Dashboard](https://github.com/Yuvi2111/Blinkit-Grocery-Sales-Dashboard/blob/main/Sales-Dashboard/dashboard-preview.png)
 
 ---
 
