@@ -41,8 +41,19 @@ This interactive Excel dashboard analyzes grocery sales data from Blinkit, provi
 ---
 
 ## 📚 Dataset Source
+The data used for this dashboard comes from Kaggle:
 
-> This is a mock dataset created for learning and visualization purposes, simulating Blinkit's sales performance.
+**Blinkit Grocery Sales Dataset**  
+🔗 [https://www.kaggle.com/datasets/rahulsingh731/blinkit-sales-dataset](https://www.kaggle.com/datasets/rahulsingh731/blinkit-sales-dataset)
+
+This dataset includes detailed information on:
+- Item types  
+- Fat content  
+- Outlet size and location  
+- Total sales and item visibility  
+- Ratings and sales trends over time
+
+It was used to analyze sales performance and build insights into Blinkit's operations using Microsoft Excel.
 
 ---
 
